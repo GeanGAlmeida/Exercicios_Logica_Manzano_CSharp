@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\bin\Debug\ExercL.exe.config
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\bin\Debug\ExercL.exe
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\bin\Debug\ExercL.pdb
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\obj\Debug\ExercL.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\obj\Debug\ExercL.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\obj\Debug\ExercL.exe
+C:\Users\Aluno\Documents\C#\Exercicios\ExercL\obj\Debug\ExercL.pdb

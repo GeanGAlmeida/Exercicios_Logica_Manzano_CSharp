@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\bin\Debug\ExercG.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\bin\Debug\ExercG.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\bin\Debug\ExercG.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\obj\Debug\ExercG.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\obj\Debug\ExercG.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\obj\Debug\ExercG.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercG\obj\Debug\ExercG.pdb

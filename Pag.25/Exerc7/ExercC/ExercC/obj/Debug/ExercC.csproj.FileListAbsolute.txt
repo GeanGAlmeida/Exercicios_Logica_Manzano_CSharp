@@ -1,0 +1,7 @@
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\bin\Debug\ExercC.exe.config
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\bin\Debug\ExercC.exe
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\bin\Debug\ExercC.pdb
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\obj\Debug\ExercC.csproj.AssemblyReference.cache
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\obj\Debug\ExercC.csproj.CoreCompileInputs.cache
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\obj\Debug\ExercC.exe
+C:\Users\gean.galmeida\source\repos\ExercC\ExercC\obj\Debug\ExercC.pdb

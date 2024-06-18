@@ -1,0 +1,7 @@
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\bin\Debug\ExercJ.exe.config
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\bin\Debug\ExercJ.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\bin\Debug\ExercJ.pdb
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\obj\Debug\ExercJ.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\obj\Debug\ExercJ.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\obj\Debug\ExercJ.exe
+C:\Users\Aluno\Documents\C#\C#\Exercicios_Manzano\Pag.66\ExercJ\obj\Debug\ExercJ.pdb
